@@ -3,7 +3,7 @@
 
 :: Install all the packages
 :::: Browsers
-:: choco install googlechrome -fy
+choco install googlechrome -fy
 
 :::: Text editors / IDEs
 choco install sublimetext3 -fy
