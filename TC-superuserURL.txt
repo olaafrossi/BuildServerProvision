@@ -1,0 +1,3 @@
+devops.3-byte.com/login.html?super=1
+
+// needs token from C:\TeamCity\logs\teamcity-server.log
