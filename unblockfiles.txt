@@ -1,0 +1,1 @@
+Get-ChildItem -Path 'C:\Program Files (x86)\Microsoft SDKs\TypeScript' -Recurse | Unblock-File
